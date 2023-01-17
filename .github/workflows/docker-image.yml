@@ -33,6 +33,6 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
       -
         name: Build and push
-          run: docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/secv:${{ steps.date.outputs.date }}
+          run: docker build . --file Dockerfile
     - name: Docker Push
-      run: docker push $DOCKERHUB_USERNAME/secv:${{ steps.date.outputs.date }}
+      run: docker push gotosystems/secv
