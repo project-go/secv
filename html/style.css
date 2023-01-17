@@ -1,0 +1,33 @@
+* {
+ margin: 0;
+ padding: 0;
+ font-size: 16px;
+ background-color: #fff;
+}
+header {
+ width: 80%;
+ margin: 0 auto;
+ margin-top: 15%;
+}
+h1 {
+ text-align: center;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
+ font-size: 3em;
+ color: #0b477b; 
+}
+h2 {
+ text-align: center;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
+ font-size: 2.5em;
+ color: #0b477b;
+ margin-top: 50px; 
+}
+p {
+ text-align: center;
+ margin-top: 1%;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
+ font-size: 1.5em;
+}
