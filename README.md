@@ -1,4 +1,4 @@
-![Docker](http://dast.webd.pl/wp-content/uploads/2018/07/Docker.png)
+<img src="https://public-pictures-of-project-go-company.s3.eu-central-1.amazonaws.com/github/docker-logo.png" width=50% height=50%>
 
 
 # Security Vulnerability Scans (secv project).
